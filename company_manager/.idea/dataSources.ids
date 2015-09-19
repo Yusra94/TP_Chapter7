@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source name="MySQL - companydb@localhost" uuid="b50af1f8-97e1-4c9f-91de-a282a7909f55">
+    <database-info product="MySQL" version="5.6.21" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.31 ( Revision: alexander.soklakov@oracle.com-20140520065950-groqzzbvxprqdmnz )">
+      <extra-name-characters>#@</extra-name-characters>
+      <identifier-quote-string>`</identifier-quote-string>
+    </database-info>
+    <case-sensitivity plain-identifiers="lower" quoted-identifiers="lower"/>
+    <schema name="" catalog="companydb"/>
+    <table name="clerk" schema="" catalog="companydb" type="TABLE">
+      <column name="employee_id" sqlType="BIGINT" precision="19" scale="0" nullable="false" jdbcType="-5" autoIncrement="true"/>
+      <column name="employee_address" sqlType="VARCHAR" precision="255" scale="0" nullable="true" jdbcType="12"/>
+      <column name="employee_email" sqlType="VARCHAR" precision="255" scale="0" nullable="true" jdbcType="12"/>
+      <column name="employee_name" sqlType="VARCHAR" precision="255" scale="0" nullable="true" jdbcType="12"/>
+      <column name="employee_phone_number" sqlType="VARCHAR" precision="255" scale="0" nullable="true" jdbcType="12"/>
+      <column name="employee_salary" sqlType="DOUBLE" precision="22" scale="0" nullable="false" jdbcType="8"/>
+      <column name="employee_surname" sqlType="VARCHAR" precision="255" scale="0" nullable="true" jdbcType="12"/>
+      <column name="hire_date" sqlType="VARCHAR" precision="255" scale="0" nullable="true" jdbcType="12"/>
+      <primary-key name="PRIMARY" columns="employee_id"/>
+    </table>
+    <table name="container" schema="" catalog="companydb" type="TABLE">
+      <column name="container_size" sqlType="INT" precision="10" scale="0" nullable="false" jdbcType="4" autoIncrement="true"/>
+      <primary-key name="PRIMARY" columns="container_size"/>
+    </table>
+    <table name="customer" schema="" catalog="companydb" type="TABLE">
+      <column name="customerid" sqlType="BIGINT" precision="19" scale="0" nullable="false" jdbcType="-5" autoIncrement="true"/>
+      <column name="customer_phone_number" sqlType="VARCHAR" precision="255" scale="0" nullable="true" jdbcType="12"/>
+      <column name="customer_address" sqlType="VARCHAR" precision="255" scale="0" nullable="true" jdbcType="12"/>
+      <column name="customer_email_address" sqlType="VARCHAR" precision="255" scale="0" nullable="true" jdbcType="12"/>
+      <column name="customer_name" sqlType="VARCHAR" precision="255" scale="0" nullable="true" jdbcType="12"/>
+      <column name="customer_surname" sqlType="VARCHAR" precision="255" scale="0" nullable="true" jdbcType="12"/>
+      <primary-key name="PRIMARY" columns="customerid"/>
+      <exported-key name="FK_kw5wkfb0p26e49s41p663br5o" table="orders" schema="" catalog="companydb" columns="order_customerid"/>
+    </table>
+    <table name="factory_worker" schema="" catalog="companydb" type="TABLE">
+      <column name="employeeid" sqlType="BIGINT" precision="19" scale="0" nullable="false" jdbcType="-5" autoIncrement="true"/>
+      <column name="employee_name" sqlType="VARCHAR" precision="255" scale="0" nullable="true" jdbcType="12"/>
+      <column name="employee_surname" sqlType="VARCHAR" precision="255" scale="0" nullable="true" jdbcType="12"/>
+      <column name="hire_date" sqlType="VARCHAR" precision="255" scale="0" nullable="true" jdbcType="12"/>
+      <column name="salary" sqlType="DOUBLE" precision="22" scale="0" nullable="false" jdbcType="8"/>
+      <primary-key name="PRIMARY" columns="employeeid"/>
+    </table>
+    <table name="manager" schema="" catalog="companydb" type="TABLE">
+      <column name="manager_id" sqlType="BIGINT" precision="19" scale="0" nullable="false" jdbcType="-5" autoIncrement="true"/>
+      <column name="manager_name" sqlType="VARCHAR" precision="255" scale="0" nullable="true" jdbcType="12"/>
+      <column name="manager_surname" sqlType="VARCHAR" precision="255" scale="0" nullable="true" jdbcType="12"/>
+      <primary-key name="PRIMARY" columns="manager_id"/>
+    </table>
+    <table name="orders" schema="" catalog="companydb" type="TABLE">
+      <column name="order_number" sqlType="BIGINT" precision="19" scale="0" nullable="false" jdbcType="-5" autoIncrement="true"/>
+      <column name="order_date" sqlType="VARCHAR" precision="255" scale="0" nullable="true" jdbcType="12"/>
+      <column name="total_sales" sqlType="DOUBLE" precision="22" scale="0" nullable="false" jdbcType="8"/>
+      <column name="order_customerid" sqlType="BIGINT" precision="19" scale="0" nullable="true" jdbcType="-5"/>
+      <primary-key name="PRIMARY" columns="order_number"/>
+      <foreign-key name="FK_kw5wkfb0p26e49s41p663br5o" columns="order_customerid" ref-table="customer" ref-schema="" ref-catalog="companydb" ref-columns="customerid" update-rule="3" delete-rule="3" deferrability="2"/>
+      <exported-key name="FK_kx3403hh8w9oa6bbbaujd9skl" table="product" schema="" catalog="companydb" columns="order_products"/>
+      <index name="FK_kw5wkfb0p26e49s41p663br5o" unique="false" columns="order_customerid"/>
+    </table>
+    <table name="product" schema="" catalog="companydb" type="TABLE">
+      <column name="product_number" sqlType="BIGINT" precision="19" scale="0" nullable="false" jdbcType="-5" autoIncrement="true"/>
+      <column name="cost" sqlType="DOUBLE" precision="22" scale="0" nullable="false" jdbcType="8"/>
+      <column name="product_name" sqlType="VARCHAR" precision="255" scale="0" nullable="true" jdbcType="12"/>
+      <column name="qty" sqlType="INT" precision="10" scale="0" nullable="false" jdbcType="4"/>
+      <column name="selling_price" sqlType="DOUBLE" precision="22" scale="0" nullable="false" jdbcType="8"/>
+      <column name="order_products" sqlType="BIGINT" precision="19" scale="0" nullable="true" jdbcType="-5"/>
+      <primary-key name="PRIMARY" columns="product_number"/>
+      <foreign-key name="FK_kx3403hh8w9oa6bbbaujd9skl" columns="order_products" ref-table="orders" ref-schema="" ref-catalog="companydb" ref-columns="order_number" update-rule="3" delete-rule="3" deferrability="2"/>
+      <exported-key name="FK_9u7mhbth8nse1crnr8bhack7k" table="raw_material" schema="" catalog="companydb" columns="product_materials"/>
+      <index name="FK_kx3403hh8w9oa6bbbaujd9skl" unique="false" columns="order_products"/>
+    </table>
+    <table name="raw_material" schema="" catalog="companydb" type="TABLE">
+      <column name="raw_material_id" sqlType="BIGINT" precision="19" scale="0" nullable="false" jdbcType="-5" autoIncrement="true"/>
+      <column name="raw_material_cost" sqlType="DOUBLE" precision="22" scale="0" nullable="false" jdbcType="8"/>
+      <column name="raw_material_name" sqlType="VARCHAR" precision="255" scale="0" nullable="true" jdbcType="12"/>
+      <column name="raw_material_qty_on_hand" sqlType="INT" precision="10" scale="0" nullable="false" jdbcType="4"/>
+      <column name="supplier_material" sqlType="BIGINT" precision="19" scale="0" nullable="true" jdbcType="-5"/>
+      <column name="product_materials" sqlType="BIGINT" precision="19" scale="0" nullable="true" jdbcType="-5"/>
+      <primary-key name="PRIMARY" columns="raw_material_id"/>
+      <foreign-key name="FK_9u7mhbth8nse1crnr8bhack7k" columns="product_materials" ref-table="product" ref-schema="" ref-catalog="companydb" ref-columns="product_number" update-rule="3" delete-rule="3" deferrability="2"/>
+      <foreign-key name="FK_r2qkkpv6mtsfgk9tt9cbgb9m4" columns="supplier_material" ref-table="supplier" ref-schema="" ref-catalog="companydb" ref-columns="supplier_id" update-rule="3" delete-rule="3" deferrability="2"/>
+      <index name="FK_9u7mhbth8nse1crnr8bhack7k" unique="false" columns="product_materials"/>
+      <index name="FK_r2qkkpv6mtsfgk9tt9cbgb9m4" unique="false" columns="supplier_material"/>
+    </table>
+    <table name="shipment" schema="" catalog="companydb" type="TABLE">
+      <column name="order_number" sqlType="BIGINT" precision="19" scale="0" nullable="false" jdbcType="-5" autoIncrement="true"/>
+      <column name="date" sqlType="VARCHAR" precision="255" scale="0" nullable="true" jdbcType="12"/>
+      <column name="driver" sqlType="VARCHAR" precision="255" scale="0" nullable="true" jdbcType="12"/>
+      <primary-key name="PRIMARY" columns="order_number"/>
+    </table>
+    <table name="supplier" schema="" catalog="companydb" type="TABLE">
+      <column name="supplier_id" sqlType="BIGINT" precision="19" scale="0" nullable="false" jdbcType="-5" autoIncrement="true"/>
+      <column name="supplier_address" sqlType="VARCHAR" precision="255" scale="0" nullable="true" jdbcType="12"/>
+      <column name="supplier_email" sqlType="VARCHAR" precision="255" scale="0" nullable="true" jdbcType="12"/>
+      <column name="supplier_name" sqlType="VARCHAR" precision="255" scale="0" nullable="true" jdbcType="12"/>
+      <column name="supplier_phone_number" sqlType="VARCHAR" precision="255" scale="0" nullable="true" jdbcType="12"/>
+      <primary-key name="PRIMARY" columns="supplier_id"/>
+      <exported-key name="FK_r2qkkpv6mtsfgk9tt9cbgb9m4" table="raw_material" schema="" catalog="companydb" columns="supplier_material"/>
+    </table>
+  </data-source>
+</component>
