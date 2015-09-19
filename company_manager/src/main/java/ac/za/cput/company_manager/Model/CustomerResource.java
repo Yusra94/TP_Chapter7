@@ -1,6 +1,6 @@
-package ac.za.cput.company_manager.Model;
+package ac.za.cput.companymanager.Model;
 
-import ac.za.cput.company_manager.domain.Orders;
+import ac.za.cput.companymanager.domain.Orders;
 import org.springframework.hateoas.ResourceSupport;
 
 import java.util.List;

@@ -1,11 +1,10 @@
-package ac.za.cput.company_manager;
+package ac.za.cput.companymanager;
 
-import ac.za.cput.company_manager.Domain.CustomerTest;
-import ac.za.cput.company_manager.Repository.OrdersCrudTest;
-import ac.za.cput.company_manager.Repository.ProductCrudTest;
-import ac.za.cput.company_manager.Repository.RawMaterialCrudTest;
-import ac.za.cput.company_manager.Repository.SupplierCrudTest;
-import ac.za.cput.company_manager.domain.Supplier;
+import ac.za.cput.companymanager.Domain.CustomerTest;
+import ac.za.cput.companymanager.Repository.OrdersCrudTest;
+import ac.za.cput.companymanager.Repository.ProductCrudTest;
+import ac.za.cput.companymanager.Repository.RawMaterialCrudTest;
+import ac.za.cput.companymanager.Repository.SupplierCrudTest;
 import junit.framework.Test;
 import junit.framework.TestCase;
 import junit.framework.TestSuite;

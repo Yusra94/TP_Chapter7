@@ -1,6 +1,6 @@
-package ac.za.cput.company_manager.Service;
+package ac.za.cput.companymanager.Service;
 
-import ac.za.cput.company_manager.domain.Supplier;
+import ac.za.cput.companymanager.domain.Supplier;
 
 import java.util.List;
 

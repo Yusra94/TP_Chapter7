@@ -1,6 +1,6 @@
-package ac.za.cput.company_manager.Factory;
+package ac.za.cput.companymanager.Factory;
 
-import ac.za.cput.company_manager.domain.RawMaterial;
+import ac.za.cput.companymanager.domain.RawMaterial;
 
 
 public class RawMaterialFactory {

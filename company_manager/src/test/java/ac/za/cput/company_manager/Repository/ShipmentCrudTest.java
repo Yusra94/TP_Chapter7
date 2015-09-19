@@ -1,9 +1,9 @@
-package ac.za.cput.company_manager.Repository;
+package ac.za.cput.companymanager.Repository;
 
-import ac.za.cput.company_manager.App;
-import ac.za.cput.company_manager.Factory.ShipmentFactory;
-import ac.za.cput.company_manager.domain.Shipment;
-import ac.za.cput.company_manager.repository.ShipmentRepository;
+import ac.za.cput.companymanager.App;
+import ac.za.cput.companymanager.Factory.ShipmentFactory;
+import ac.za.cput.companymanager.domain.Shipment;
+import ac.za.cput.companymanager.repository.ShipmentRepository;
 import org.junit.Assert;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.testng.annotations.Test;

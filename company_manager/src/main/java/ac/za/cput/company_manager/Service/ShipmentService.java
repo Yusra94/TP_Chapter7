@@ -1,9 +1,8 @@
-package ac.za.cput.company_manager.Service;
+package ac.za.cput.companymanager.Service;
 
-import ac.za.cput.company_manager.domain.Shipment;
+import ac.za.cput.companymanager.domain.Shipment;
 
 import java.util.List;
-import java.util.ListIterator;
 
 
 public interface ShipmentService {

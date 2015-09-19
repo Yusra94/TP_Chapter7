@@ -1,6 +1,6 @@
-package ac.za.cput.company_manager.Domain;
+package ac.za.cput.companymanager.Domain;
 
-import ac.za.cput.company_manager.domain.FactoryWorker;
+import ac.za.cput.companymanager.domain.FactoryWorker;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;

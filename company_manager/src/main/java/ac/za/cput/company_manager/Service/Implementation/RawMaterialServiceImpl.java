@@ -1,10 +1,8 @@
-package ac.za.cput.company_manager.Service.Implementation;
+package ac.za.cput.companymanager.Service.Implementation;
 
-import ac.za.cput.company_manager.Service.RawMaterialService;
-import ac.za.cput.company_manager.domain.Product;
-import ac.za.cput.company_manager.domain.RawMaterial;
-import ac.za.cput.company_manager.repository.ProductRepository;
-import ac.za.cput.company_manager.repository.RawMaterialRepository;
+import ac.za.cput.companymanager.Service.RawMaterialService;
+import ac.za.cput.companymanager.domain.RawMaterial;
+import ac.za.cput.companymanager.repository.RawMaterialRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

@@ -1,8 +1,8 @@
-package ac.za.cput.company_manager.Domain;
+package ac.za.cput.companymanager.Domain;
 
-import ac.za.cput.company_manager.Factory.OrderFactory;
-import ac.za.cput.company_manager.domain.Orders;
-import ac.za.cput.company_manager.domain.Product;
+import ac.za.cput.companymanager.Factory.OrderFactory;
+import ac.za.cput.companymanager.domain.Orders;
+import ac.za.cput.companymanager.domain.Product;
 import org.junit.Before;
 import org.junit.Test;
 

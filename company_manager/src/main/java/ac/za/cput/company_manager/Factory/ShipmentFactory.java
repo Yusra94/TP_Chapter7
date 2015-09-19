@@ -1,6 +1,6 @@
-package ac.za.cput.company_manager.Factory;
+package ac.za.cput.companymanager.Factory;
 
-import ac.za.cput.company_manager.domain.Shipment;
+import ac.za.cput.companymanager.domain.Shipment;
 
 public class ShipmentFactory{
 

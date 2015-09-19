@@ -1,13 +1,11 @@
-package ac.za.cput.company_manager.Service;
+package ac.za.cput.companymanager.Service;
 
-import ac.za.cput.company_manager.App;
-import ac.za.cput.company_manager.Factory.CustomerFactory;
-import ac.za.cput.company_manager.Factory.OrderFactory;
-import ac.za.cput.company_manager.Factory.ProductFactory;
-import ac.za.cput.company_manager.domain.Customer;
-import ac.za.cput.company_manager.domain.Orders;
-import ac.za.cput.company_manager.domain.Product;
-import ac.za.cput.company_manager.repository.CustomerRepository;
+import ac.za.cput.companymanager.App;
+import ac.za.cput.companymanager.Factory.CustomerFactory;
+import ac.za.cput.companymanager.Factory.OrderFactory;
+import ac.za.cput.companymanager.domain.Customer;
+import ac.za.cput.companymanager.domain.Orders;
+import ac.za.cput.companymanager.repository.CustomerRepository;
 import org.junit.Assert;
 import org.springframework.boot.test.SpringApplicationConfiguration;
 import org.springframework.test.context.web.WebAppConfiguration;

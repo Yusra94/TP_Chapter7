@@ -1,6 +1,6 @@
-package ac.za.cput.company_manager.repository;
+package ac.za.cput.companymanager.repository;
 
-import ac.za.cput.company_manager.domain.Supplier;
+import ac.za.cput.companymanager.domain.Supplier;
 import org.springframework.data.repository.CrudRepository;
 
 public interface SupplierRepository  extends CrudRepository<Supplier, Long> {

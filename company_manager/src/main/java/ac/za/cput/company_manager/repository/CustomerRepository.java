@@ -1,6 +1,6 @@
-package ac.za.cput.company_manager.repository;
+package ac.za.cput.companymanager.repository;
 
-import ac.za.cput.company_manager.domain.Customer;
+import ac.za.cput.companymanager.domain.Customer;
 
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;

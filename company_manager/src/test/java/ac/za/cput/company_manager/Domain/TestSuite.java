@@ -1,4 +1,4 @@
-package ac.za.cput.company_manager.Domain;
+package ac.za.cput.companymanager.Domain;
 
 import org.junit.runner.RunWith;
 import org.junit.runners.Suite;

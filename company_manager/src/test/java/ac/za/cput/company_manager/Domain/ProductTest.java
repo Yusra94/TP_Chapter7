@@ -1,13 +1,12 @@
-package ac.za.cput.company_manager.Domain;
+package ac.za.cput.companymanager.Domain;
 
-import ac.za.cput.company_manager.Factory.ProductFactory;
-import ac.za.cput.company_manager.domain.Product;
-import ac.za.cput.company_manager.domain.RawMaterial;
+import ac.za.cput.companymanager.Factory.ProductFactory;
+import ac.za.cput.companymanager.domain.Product;
+import ac.za.cput.companymanager.domain.RawMaterial;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 
-import javax.persistence.Entity;
 import java.util.ArrayList;
 import java.util.List;
 

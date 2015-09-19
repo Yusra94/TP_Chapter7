@@ -1,7 +1,7 @@
-package ac.za.cput.company_manager.Factory;
+package ac.za.cput.companymanager.Factory;
 
-import ac.za.cput.company_manager.domain.Orders;
-import ac.za.cput.company_manager.domain.Product;
+import ac.za.cput.companymanager.domain.Orders;
+import ac.za.cput.companymanager.domain.Product;
 
 import java.util.List;
 

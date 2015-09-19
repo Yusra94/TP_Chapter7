@@ -1,9 +1,9 @@
-package ac.za.cput.company_manager.Service.Implementation;
+package ac.za.cput.companymanager.Service.Implementation;
 
-import ac.za.cput.company_manager.Service.OrderService;
-import ac.za.cput.company_manager.domain.Customer;
-import ac.za.cput.company_manager.domain.Orders;
-import ac.za.cput.company_manager.repository.CustomerRepository;
+import ac.za.cput.companymanager.Service.OrderService;
+import ac.za.cput.companymanager.domain.Customer;
+import ac.za.cput.companymanager.domain.Orders;
+import ac.za.cput.companymanager.repository.CustomerRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

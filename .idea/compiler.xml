@@ -24,10 +24,12 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="company_manager" />
+        <module name="companymanager" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="company_manager" target="1.7" />
+      <module name="companymanager" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>

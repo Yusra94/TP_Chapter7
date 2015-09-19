@@ -1,7 +1,7 @@
-package ac.za.cput.company_manager.api;
+package ac.za.cput.companymanager.api;
 
-import ac.za.cput.company_manager.Service.CustomerService;
-import ac.za.cput.company_manager.domain.Customer;
+import ac.za.cput.companymanager.Service.CustomerService;
+import ac.za.cput.companymanager.domain.Customer;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;

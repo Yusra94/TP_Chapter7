@@ -1,7 +1,7 @@
-package ac.za.cput.company_manager.Domain;
+package ac.za.cput.companymanager.Domain;
 
-import ac.za.cput.company_manager.Factory.RawMaterialFactory;
-import ac.za.cput.company_manager.domain.RawMaterial;
+import ac.za.cput.companymanager.Factory.RawMaterialFactory;
+import ac.za.cput.companymanager.domain.RawMaterial;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;

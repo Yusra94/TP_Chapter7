@@ -1,8 +1,8 @@
-package ac.za.cput.company_manager.Service.Implementation;
+package ac.za.cput.companymanager.Service.Implementation;
 
-import ac.za.cput.company_manager.Service.ShipmentService;
-import ac.za.cput.company_manager.domain.Shipment;
-import ac.za.cput.company_manager.repository.ShipmentRepository;
+import ac.za.cput.companymanager.Service.ShipmentService;
+import ac.za.cput.companymanager.domain.Shipment;
+import ac.za.cput.companymanager.repository.ShipmentRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 
 import java.util.ArrayList;

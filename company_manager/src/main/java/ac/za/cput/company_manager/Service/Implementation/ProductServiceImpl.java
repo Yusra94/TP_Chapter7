@@ -1,8 +1,8 @@
-package ac.za.cput.company_manager.Service.Implementation;
+package ac.za.cput.companymanager.Service.Implementation;
 
-import ac.za.cput.company_manager.Service.ProductService;
-import ac.za.cput.company_manager.domain.Product;
-import ac.za.cput.company_manager.repository.ProductRepository;
+import ac.za.cput.companymanager.Service.ProductService;
+import ac.za.cput.companymanager.domain.Product;
+import ac.za.cput.companymanager.repository.ProductRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

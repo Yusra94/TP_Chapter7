@@ -1,4 +1,4 @@
-package ac.za.cput.company_manager.domain;
+package ac.za.cput.companymanager.domain;
 
 public interface Person {
 }

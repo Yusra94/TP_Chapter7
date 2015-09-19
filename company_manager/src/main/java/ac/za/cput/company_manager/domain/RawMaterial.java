@@ -1,8 +1,7 @@
-package ac.za.cput.company_manager.domain;
+package ac.za.cput.companymanager.domain;
 
 import javax.persistence.*;
 import java.io.Serializable;
-import java.util.List;
 
 @Entity
 public class RawMaterial implements Serializable{
