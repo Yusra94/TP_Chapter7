@@ -1,7 +1,228 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="07fac921-83f0-4968-a075-77d1a091b91a" name="Default" comment="" />
+    <list default="true" id="07fac921-83f0-4968-a075-77d1a091b91a" name="Default" comment="Deploy">
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\.name" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\compiler.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\copyright\profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\dataSources.ids" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\dataSources.local.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\dataSources.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\libraries\Maven__antlr_antlr_2_7_7.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\libraries\Maven__aopalliance_aopalliance_1_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\libraries\Maven__ch_qos_logback_logback_classic_1_1_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\libraries\Maven__ch_qos_logback_logback_core_1_1_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\libraries\Maven__com_beust_jcommander_1_27.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\libraries\Maven__com_fasterxml_classmate_1_0_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\libraries\Maven__com_fasterxml_jackson_core_jackson_annotations_2_4_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\libraries\Maven__com_fasterxml_jackson_core_jackson_core_2_4_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\libraries\Maven__com_fasterxml_jackson_core_jackson_databind_2_4_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\libraries\Maven__dom4j_dom4j_1_6_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\libraries\Maven__javax_transaction_javax_transaction_api_1_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\libraries\Maven__javax_validation_validation_api_1_1_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\libraries\Maven__junit_junit_4_12.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\libraries\Maven__mysql_mysql_connector_java_5_1_35.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\libraries\Maven__org_apache_tomcat_embed_tomcat_embed_core_8_0_20.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\libraries\Maven__org_apache_tomcat_embed_tomcat_embed_el_8_0_20.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\libraries\Maven__org_apache_tomcat_embed_tomcat_embed_logging_juli_8_0_20.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\libraries\Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_0_20.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\libraries\Maven__org_apache_tomcat_tomcat_jdbc_8_0_20.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\libraries\Maven__org_apache_tomcat_tomcat_juli_8_0_20.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\libraries\Maven__org_aspectj_aspectjrt_1_8_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\libraries\Maven__org_aspectj_aspectjweaver_1_8_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\libraries\Maven__org_beanshell_bsh_2_0b4.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\libraries\Maven__org_hamcrest_hamcrest_core_1_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\libraries\Maven__org_hamcrest_hamcrest_library_1_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\libraries\Maven__org_hibernate_common_hibernate_commons_annotations_4_0_5_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\libraries\Maven__org_hibernate_hibernate_core_4_3_8_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\libraries\Maven__org_hibernate_hibernate_entitymanager_4_3_8_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\libraries\Maven__org_hibernate_hibernate_validator_5_1_3_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\libraries\Maven__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\libraries\Maven__org_javassist_javassist_3_18_1_GA.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\libraries\Maven__org_jboss_jandex_1_1_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\libraries\Maven__org_jboss_logging_jboss_logging_3_1_3_GA.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\libraries\Maven__org_jboss_logging_jboss_logging_annotations_1_2_0_Beta1.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\libraries\Maven__org_mockito_mockito_core_1_10_19.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\libraries\Maven__org_objenesis_objenesis_2_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\libraries\Maven__org_slf4j_jcl_over_slf4j_1_7_10.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\libraries\Maven__org_slf4j_jul_to_slf4j_1_7_11.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\libraries\Maven__org_slf4j_log4j_over_slf4j_1_7_11.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\libraries\Maven__org_slf4j_slf4j_api_1_7_10.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\libraries\Maven__org_springframework_boot_spring_boot_1_2_3_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\libraries\Maven__org_springframework_boot_spring_boot_autoconfigure_1_2_3_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_1_2_3_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_aop_1_2_3_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_data_jpa_1_2_3_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_hateoas_1_2_3_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_jdbc_1_2_3_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_logging_1_2_3_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_test_1_2_3_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_tomcat_1_2_3_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_web_1_2_3_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\libraries\Maven__org_springframework_data_spring_data_commons_1_9_2_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\libraries\Maven__org_springframework_data_spring_data_jpa_1_7_2_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\libraries\Maven__org_springframework_hateoas_spring_hateoas_0_16_0_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\libraries\Maven__org_springframework_plugin_spring_plugin_core_1_1_0_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\libraries\Maven__org_springframework_spring_aop_4_1_6_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\libraries\Maven__org_springframework_spring_aspects_4_1_6_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\libraries\Maven__org_springframework_spring_beans_4_1_6_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\libraries\Maven__org_springframework_spring_context_4_1_6_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\libraries\Maven__org_springframework_spring_core_4_1_6_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\libraries\Maven__org_springframework_spring_expression_4_1_6_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\libraries\Maven__org_springframework_spring_jdbc_4_1_6_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\libraries\Maven__org_springframework_spring_orm_4_1_6_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\libraries\Maven__org_springframework_spring_test_4_1_6_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\libraries\Maven__org_springframework_spring_tx_4_1_6_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\libraries\Maven__org_springframework_spring_web_4_1_6_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\libraries\Maven__org_springframework_spring_webmvc_4_1_6_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\libraries\Maven__org_testng_testng_6_8_21.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\libraries\Maven__org_yaml_snakeyaml_1_14.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\libraries\Maven__xml_apis_xml_apis_1_0_b2.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\scopes\scope_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\uiDesigner.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\.idea\workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\TP_UML.vsd" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\company_manager.iml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\src\main\java\ac\za\cput\company_manager\App.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\src\main\java\ac\za\cput\company_manager\Factory\CustomerFactory.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\src\main\java\ac\za\cput\company_manager\Factory\OrderFactory.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\src\main\java\ac\za\cput\company_manager\Factory\ProductFactory.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\src\main\java\ac\za\cput\company_manager\Factory\RawMaterialFactory.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\src\main\java\ac\za\cput\company_manager\Factory\ShipmentFactory.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\src\main\java\ac\za\cput\company_manager\Factory\SupplierFactory.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\src\main\java\ac\za\cput\company_manager\Model\CustomerResource.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\src\main\java\ac\za\cput\company_manager\Service\CustomerService.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\src\main\java\ac\za\cput\company_manager\Service\Implementation\CustomerServiceImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\src\main\java\ac\za\cput\company_manager\Service\Implementation\OrderServiceImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\src\main\java\ac\za\cput\company_manager\Service\Implementation\ProductServiceImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\src\main\java\ac\za\cput\company_manager\Service\Implementation\RawMaterialServiceImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\src\main\java\ac\za\cput\company_manager\Service\Implementation\ShipmentServiceImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\src\main\java\ac\za\cput\company_manager\Service\Implementation\SupplierServiceImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\src\main\java\ac\za\cput\company_manager\Service\OrderService.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\src\main\java\ac\za\cput\company_manager\Service\ProductService.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\src\main\java\ac\za\cput\company_manager\Service\RawMaterialService.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\src\main\java\ac\za\cput\company_manager\Service\ShipmentService.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\src\main\java\ac\za\cput\company_manager\Service\SupplierService.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\src\main\java\ac\za\cput\company_manager\api\CustomerOrdersPage.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\src\main\java\ac\za\cput\company_manager\api\HomePage.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\src\main\java\ac\za\cput\company_manager\domain\Clerk.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\src\main\java\ac\za\cput\company_manager\domain\Container.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\src\main\java\ac\za\cput\company_manager\domain\Customer.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\src\main\java\ac\za\cput\company_manager\domain\Employee.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\src\main\java\ac\za\cput\company_manager\domain\FactoryWorker.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\src\main\java\ac\za\cput\company_manager\domain\Manager.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\src\main\java\ac\za\cput\company_manager\domain\Orders.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\src\main\java\ac\za\cput\company_manager\domain\Person.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\src\main\java\ac\za\cput\company_manager\domain\Product.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\src\main\java\ac\za\cput\company_manager\domain\RawMaterial.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\src\main\java\ac\za\cput\company_manager\domain\Shipment.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\src\main\java\ac\za\cput\company_manager\domain\Supplier.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\src\main\java\ac\za\cput\company_manager\repository\CustomerRepository.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\src\main\java\ac\za\cput\company_manager\repository\OrderRepository.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\src\main\java\ac\za\cput\company_manager\repository\ProductRepository.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\src\main\java\ac\za\cput\company_manager\repository\RawMaterialRepository.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\src\main\java\ac\za\cput\company_manager\repository\ShipmentRepository.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\src\main\java\ac\za\cput\company_manager\repository\SupplierRepository.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\src\main\resources\application.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\src\test\java\ac\za\cput\company_manager\AppTest.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\src\test\java\ac\za\cput\company_manager\Domain\ClerkTest.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\src\test\java\ac\za\cput\company_manager\Domain\ContainerTest.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\src\test\java\ac\za\cput\company_manager\Domain\CustomerTest.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\src\test\java\ac\za\cput\company_manager\Domain\FactoryWorkerTest.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\src\test\java\ac\za\cput\company_manager\Domain\ManagerTest.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\src\test\java\ac\za\cput\company_manager\Domain\OrdersTest.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\src\test\java\ac\za\cput\company_manager\Domain\ProductTest.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\src\test\java\ac\za\cput\company_manager\Domain\RawMaterialTest.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\src\test\java\ac\za\cput\company_manager\Domain\ShipmentTest.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\src\test\java\ac\za\cput\company_manager\Domain\SupplierTest.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\src\test\java\ac\za\cput\company_manager\Domain\TestSuite.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\src\test\java\ac\za\cput\company_manager\Repository\CustomerCrudTest.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\src\test\java\ac\za\cput\company_manager\Repository\OrdersCrudTest.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\src\test\java\ac\za\cput\company_manager\Repository\ProductCrudTest.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\src\test\java\ac\za\cput\company_manager\Repository\RawMaterialCrudTest.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\src\test\java\ac\za\cput\company_manager\Repository\ShipmentCrudTest.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\src\test\java\ac\za\cput\company_manager\Repository\SupplierCrudTest.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\src\test\java\ac\za\cput\company_manager\Service\CustomerOrdersServiceTest.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\target\MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\target\classes\ac\za\cput\company_manager\App.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\target\classes\ac\za\cput\company_manager\Factory\CustomerFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\target\classes\ac\za\cput\company_manager\Factory\OrderFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\target\classes\ac\za\cput\company_manager\Factory\ProductFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\target\classes\ac\za\cput\company_manager\Factory\RawMaterialFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\target\classes\ac\za\cput\company_manager\Factory\ShipmentFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\target\classes\ac\za\cput\company_manager\Factory\SupplierFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\target\classes\ac\za\cput\company_manager\Model\CustomerResource$Builder.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\target\classes\ac\za\cput\company_manager\Model\CustomerResource.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\target\classes\ac\za\cput\company_manager\Service\CustomerService.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\target\classes\ac\za\cput\company_manager\Service\Implementation\CustomerServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\target\classes\ac\za\cput\company_manager\Service\Implementation\OrderServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\target\classes\ac\za\cput\company_manager\Service\Implementation\ProductServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\target\classes\ac\za\cput\company_manager\Service\Implementation\RawMaterialServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\target\classes\ac\za\cput\company_manager\Service\Implementation\ShipmentServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\target\classes\ac\za\cput\company_manager\Service\Implementation\SupplierServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\target\classes\ac\za\cput\company_manager\Service\OrderService.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\target\classes\ac\za\cput\company_manager\Service\ProductService.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\target\classes\ac\za\cput\company_manager\Service\RawMaterialService.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\target\classes\ac\za\cput\company_manager\Service\ShipmentService.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\target\classes\ac\za\cput\company_manager\Service\SupplierService.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\target\classes\ac\za\cput\company_manager\api\CustomerOrdersPage.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\target\classes\ac\za\cput\company_manager\api\HomePage.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\target\classes\ac\za\cput\company_manager\domain\Clerk$Builder.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\target\classes\ac\za\cput\company_manager\domain\Clerk.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\target\classes\ac\za\cput\company_manager\domain\Container$Builder.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\target\classes\ac\za\cput\company_manager\domain\Container.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\target\classes\ac\za\cput\company_manager\domain\Customer$Builder.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\target\classes\ac\za\cput\company_manager\domain\Customer.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\target\classes\ac\za\cput\company_manager\domain\Employee.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\target\classes\ac\za\cput\company_manager\domain\FactoryWorker$Builder.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\target\classes\ac\za\cput\company_manager\domain\FactoryWorker.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\target\classes\ac\za\cput\company_manager\domain\Manager$Builder.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\target\classes\ac\za\cput\company_manager\domain\Manager.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\target\classes\ac\za\cput\company_manager\domain\Orders$Builder.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\target\classes\ac\za\cput\company_manager\domain\Orders.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\target\classes\ac\za\cput\company_manager\domain\Person.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\target\classes\ac\za\cput\company_manager\domain\Product$Builder.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\target\classes\ac\za\cput\company_manager\domain\Product.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\target\classes\ac\za\cput\company_manager\domain\RawMaterial$Builder.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\target\classes\ac\za\cput\company_manager\domain\RawMaterial.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\target\classes\ac\za\cput\company_manager\domain\Shipment$Builder.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\target\classes\ac\za\cput\company_manager\domain\Shipment.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\target\classes\ac\za\cput\company_manager\domain\Supplier$Builder.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\target\classes\ac\za\cput\company_manager\domain\Supplier.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\target\classes\ac\za\cput\company_manager\repository\CustomerRepository.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\target\classes\ac\za\cput\company_manager\repository\OrderRepository.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\target\classes\ac\za\cput\company_manager\repository\ProductRepository.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\target\classes\ac\za\cput\company_manager\repository\RawMaterialRepository.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\target\classes\ac\za\cput\company_manager\repository\ShipmentRepository.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\target\classes\ac\za\cput\company_manager\repository\SupplierRepository.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\target\classes\application.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\target\test-classes\ac\za\cput\company_manager\AppTest.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\target\test-classes\ac\za\cput\company_manager\Domain\ClerkTest.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\target\test-classes\ac\za\cput\company_manager\Domain\ContainerTest.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\target\test-classes\ac\za\cput\company_manager\Domain\CustomerTest.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\target\test-classes\ac\za\cput\company_manager\Domain\FactoryWorkerTest.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\target\test-classes\ac\za\cput\company_manager\Domain\ManagerTest.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\target\test-classes\ac\za\cput\company_manager\Domain\OrdersTest.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\target\test-classes\ac\za\cput\company_manager\Domain\ProductTest.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\target\test-classes\ac\za\cput\company_manager\Domain\RawMaterialTest.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\target\test-classes\ac\za\cput\company_manager\Domain\ShipmentTest.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\target\test-classes\ac\za\cput\company_manager\Domain\SupplierTest.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\target\test-classes\ac\za\cput\company_manager\Domain\TestSuite.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\target\test-classes\ac\za\cput\company_manager\Repository\CustomerCrudTest.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\target\test-classes\ac\za\cput\company_manager\Repository\OrdersCrudTest.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\target\test-classes\ac\za\cput\company_manager\Repository\ProductCrudTest.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\target\test-classes\ac\za\cput\company_manager\Repository\RawMaterialCrudTest.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\target\test-classes\ac\za\cput\company_manager\Repository\ShipmentCrudTest.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\target\test-classes\ac\za\cput\company_manager\Repository\SupplierCrudTest.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\yusraAdmin\Desktop\attempt\company_manager\company_manager\target\test-classes\ac\za\cput\company_manager\Service\CustomerOrdersServiceTest.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    </list>
     <ignored path="company_manager.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -49,10 +270,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.25757575" vertical-offset="0" max-vertical-offset="1394">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1394">
               <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
               <folding />
             </state>
@@ -81,10 +302,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="deploy" pinned="false" current-in-tab="false">
+      <file leaf-file-name="deploy" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.openshift/action_hooks/deploy">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="595">
+            <state vertical-scroll-proportion="0.8299663" vertical-offset="0" max-vertical-offset="595">
               <caret line="29" column="33" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
               <folding />
             </state>
@@ -155,7 +376,7 @@
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -282,278 +503,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="company_manager" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="company_manager" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="company_manager" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="companymanager" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="company_manager" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="company_manager" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="companymanager" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Service" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="company_manager" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="company_manager" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="companymanager" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Repository" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="company_manager" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="company_manager" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="company_manager" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="company_manager" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="companymanager" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="company_manager" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="company_manager" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="companymanager" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="repository" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="company_manager" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="company_manager" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="companymanager" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Model" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="company_manager" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="company_manager" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="companymanager" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="domain" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="company_manager" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="company_manager" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="companymanager" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="api" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="company_manager" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="company_manager" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value=".openshift" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="action_hooks" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1045,6 +994,8 @@
       <deployment type="module" name="companymanager">
         <settings />
       </deployment>
+      <RunnerSettings RunnerId="DeployToServer" />
+      <ConfigurationWrapper RunnerId="DeployToServer" />
       <method />
     </configuration>
     <list size="6">
@@ -1110,47 +1061,47 @@
       <workItem from="1432203032933" duration="1505000" />
       <workItem from="1432204768369" duration="2292000" />
       <workItem from="1432503538389" duration="3003000" />
-      <workItem from="1442701151288" duration="885000" />
+      <workItem from="1442701151288" duration="1167000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="191260000" />
+    <option name="totallyTimeSpent" value="191542000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="1" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32980332" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329582" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329582" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32829046" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329582" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329582" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25718608" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32928678" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32829046" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39871383" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329582" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5401929" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329582" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329582" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25718608" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32928678" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39871383" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2909968" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5401929" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329582" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -1575,30 +1526,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.openshift/action_hooks/deploy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="595">
-          <caret line="29" column="33" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.openshift/action_hooks/start">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="136">
-          <caret line="2" column="121" selection-start-line="2" selection-start-column="121" selection-end-line="2" selection-end-column="121" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.openshift/action_hooks/stop">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
-          <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/settings.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="136">
@@ -1617,8 +1544,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25757575" vertical-offset="0" max-vertical-offset="1394">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1394">
           <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.openshift/action_hooks/stop">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
+          <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.openshift/action_hooks/start">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="136">
+          <caret line="2" column="121" selection-start-line="2" selection-start-column="121" selection-end-line="2" selection-end-column="121" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.openshift/action_hooks/deploy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8299663" vertical-offset="0" max-vertical-offset="595">
+          <caret line="29" column="33" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
           <folding />
         </state>
       </provider>
